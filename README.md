@@ -1,6 +1,6 @@
 # 📌 Santander Dev Week 2025 – Projeto de Estudo
 
-Este repositório contém uma **API REST em Java** desenvolvida como prática durante a Santander Dev Week 2023.  
+Este repositório contém uma **API REST em Java** desenvolvida como prática durante a Santander Dev Week 2025.  
 O foco aqui é **aprender, experimentar e consolidar conceitos** de desenvolvimento back-end.  
 
 ---
